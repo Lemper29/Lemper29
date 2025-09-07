@@ -54,7 +54,7 @@
 <p align="center" > 
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
-  <a href="https://t.me/@FuckDeveloper">
+  <a href="https://t.me/@FuckDevelopers">
   <code><img alt="My linkedin" width="32" src="./images/telegram.svg" /></code>
 </a>
 </p>
