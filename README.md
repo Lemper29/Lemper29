@@ -13,7 +13,7 @@
 - 🧠 Love sharing knowledge
 - 🌌 Passionate for astronomy
 - ✈️ Traveling is one of my favorite hobbies
-- 📧 Reach me via buumhala@gmail.com
+- 📧 Reach me via buumhalal@gmail.com
 
 <br>
 <br>
