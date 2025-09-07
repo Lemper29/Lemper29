@@ -25,16 +25,16 @@ I'm a backend developer!
 
 ## 💻 Tech stack
 
-![Go Logo](/images/Go.svg)
-![Python Logo](/images/Python.svg)
-![Docker Logo](/images/Docker.svg)
-![Git Logo](/images/Git.svg)
-![Github Logo](/images/GitHub.svg)
-![Gitlab Logo](/images/GitLab.svg)
-![PostgresSQL Logo](/images/PostgresSQL.svg)
-![RabbitMQ Logo](/images/RabbitMQ.svg)
-![Linux Logo](/images/Linux.svg)
-![VsCode Logo](/images/Vs.svg)
+<img src="/images/Go.svg" alt="Go Logo" width="50" height="50" />
+<img src="/images/Python.svg" alt="Python Logo" width="50" height="50" />
+<img src="/images/Docker.svg" alt="Docker Logo" width="50" height="50" />
+<img src="/images/Git.svg" alt="Git Logo" width="50" height="50" />
+<img src="/images/GitHub.svg" alt="Github Logo" width="50" height="50" />
+<img src="/images/GitLab.svg" alt="Gitlab Logo" width="50" height="50" />
+<img src="/images/PostgresSQL.svg" alt="PostgresSQL Logo" width="50" height="50" />
+<img src="/images/RabbitMQ.svg" alt="RabbitMQ Logo" width="50" height="50" />
+<img src="/images/Linux.svg" alt="Linux Logo" width="50" height="50" />
+<img src="/images/Vs.svg" alt="VsCode Logo" width="50" height="50" />
 
 ---
 
